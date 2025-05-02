@@ -1,2 +1,23 @@
-# teleconsultation-crm
-Plateforme de prise de rendez-vous entre patients et médecins, avec gestion des profils, paiement en ligne (Stripe &amp; Orange Money), et appels vidéo via Twilio. 🔗 [Démo Heroku] · [GitHub] Technos : Ruby on Rails, PostgreSQL, Devise, Twilio API, Stripe, FullCalendar.js, Bootstrap
+# README
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
